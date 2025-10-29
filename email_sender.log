@@ -1,0 +1,147 @@
+2025-09-27 11:56:24,018 - INFO - Formato detectado: Email,Nome
+2025-09-27 11:56:24,019 - INFO - 10 emails válidos carregados do arquivo
+2025-09-27 11:56:24,020 - INFO - Iniciando envio para 10 destinatários...
+2025-09-27 11:56:26,713 - INFO - Email enviado para: thaynaradev6@gmail.com
+2025-09-27 11:56:51,698 - INFO - Email enviado para: sdneibrasill@gmail.com
+2025-09-27 11:57:16,579 - INFO - Email enviado para: mariaapleopolldo@gmail.com
+2025-09-27 11:57:41,666 - INFO - Email enviado para: edercarllosreato@gmail.com
+2025-09-27 11:58:06,549 - INFO - Email enviado para: reinaldolaurodasilva@gmail.com
+2025-09-27 11:58:32,250 - INFO - Email enviado para: vardirzonsill@gmail.com
+2025-09-27 11:58:56,722 - INFO - Email enviado para: carlosalbertosilsena@gmail.com
+2025-09-27 11:59:21,400 - INFO - Email enviado para: gilbertoconceicaopadovezii@gmail.com
+2025-09-27 11:59:46,590 - INFO - Email enviado para: gilbertopadovezi8@gmail.com
+2025-09-27 12:00:13,984 - INFO - Email enviado para: devaniovieiradias2@gmail.com
+2025-09-27 12:00:34,029 - INFO - Envio finalizado. Enviados: 10, Falhas: 0
+2025-10-01 15:10:01,585 - INFO - Formato detectado: Email,Nome
+2025-10-01 15:10:01,587 - INFO - 10 emails válidos carregados do arquivo
+2025-10-01 15:10:01,587 - INFO - Iniciando envio para 10 destinatários...
+2025-10-01 15:10:04,419 - INFO - Email enviado para: thaynaradev6@gmail.com
+2025-10-01 15:10:29,642 - INFO - Email enviado para: sdneibrasill@gmail.com
+2025-10-01 15:10:55,455 - INFO - Email enviado para: mariaapleopolldo@gmail.com
+2025-10-01 15:11:19,438 - INFO - Email enviado para: edercarllosreato@gmail.com
+2025-10-01 15:11:44,605 - INFO - Email enviado para: reinaldolaurodasilva@gmail.com
+2025-10-01 15:12:12,264 - INFO - Email enviado para: vardirzonsill@gmail.com
+2025-10-01 15:12:34,659 - INFO - Email enviado para: carlosalbertosilsena@gmail.com
+2025-10-01 15:12:59,971 - INFO - Email enviado para: gilbertoconceicaopadovezii@gmail.com
+2025-10-01 15:13:24,649 - INFO - Email enviado para: gilbertopadovezi8@gmail.com
+2025-10-01 15:13:50,584 - INFO - Email enviado para: devaniovieiradias2@gmail.com
+2025-10-01 15:14:11,598 - INFO - Envio finalizado. Enviados: 10, Falhas: 0
+2025-10-13 19:00:17,475 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:00:17,476 - INFO - 10 emails válidos carregados do arquivo
+2025-10-13 19:00:17,476 - INFO - Iniciando envio para 10 destinatários...
+2025-10-13 19:05:06,142 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:05:06,143 - INFO - 1 emails válidos carregados do arquivo
+2025-10-13 19:05:06,143 - INFO - Iniciando envio para 1 destinatários...
+2025-10-13 19:22:02,694 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:22:02,695 - INFO - 1 emails válidos carregados do arquivo
+2025-10-13 19:22:02,695 - INFO - Iniciando envio para 1 destinatários...
+2025-10-13 19:28:01,366 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:28:01,366 - INFO - 1 emails válidos carregados do arquivo
+2025-10-13 19:28:01,367 - INFO - Iniciando envio para 1 destinatários...
+2025-10-13 19:36:36,337 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:36:36,338 - INFO - 1 emails válidos carregados do arquivo
+2025-10-13 19:36:36,338 - INFO - Iniciando envio para 1 destinatários...
+2025-10-13 19:36:41,980 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-13 19:37:01,341 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-13 19:38:23,403 - INFO - Formato detectado: Email,Nome
+2025-10-13 19:38:23,404 - INFO - 1 emails válidos carregados do arquivo
+2025-10-13 19:38:23,404 - INFO - Iniciando envio para 1 destinatários...
+2025-10-13 19:38:29,596 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-13 19:38:48,408 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 14:20:19,844 - INFO - Formato detectado: Email,Nome
+2025-10-23 14:20:19,845 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 14:20:19,846 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 14:20:26,452 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-23 14:20:44,869 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 15:08:31,738 - INFO - Formato detectado: Email,Nome
+2025-10-23 15:08:31,739 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 15:08:31,739 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 15:08:36,164 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-23 15:08:56,751 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 17:13:11,236 - INFO - Formato detectado: Email,Nome
+2025-10-23 17:13:11,238 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 17:13:11,238 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 17:13:17,650 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-23 17:13:36,244 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 19:47:59,228 - INFO - Formato detectado: Email,Nome
+2025-10-23 19:47:59,229 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 19:47:59,230 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 19:48:04,938 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-23 19:48:24,234 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 19:48:24,486 - INFO - Formato detectado: Email,Nome
+2025-10-23 19:48:24,487 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 19:48:24,487 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 19:48:31,048 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-23 19:48:49,491 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 20:08:41,553 - INFO - Formato detectado: Email,Nome
+2025-10-23 20:08:41,555 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 20:08:41,555 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 20:08:47,082 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'AUTH failed')
+2025-10-23 20:09:06,558 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-23 20:25:57,884 - INFO - Formato detectado: Email,Nome
+2025-10-23 20:25:57,884 - INFO - 1 emails válidos carregados do arquivo
+2025-10-23 20:25:57,884 - INFO - Iniciando envio para 1 destinatários...
+2025-10-23 20:26:02,864 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'AUTH failed')
+2025-10-23 20:26:22,888 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-24 16:33:09,564 - INFO - Formato detectado: Email,Nome
+2025-10-24 16:33:09,565 - INFO - 1 emails válidos carregados do arquivo
+2025-10-24 16:33:09,566 - INFO - Iniciando envio para 1 destinatários...
+2025-10-24 16:33:14,965 - ERROR - Falha ao enviar para thaynaradev6@gmail.com: (535, b'Authentication Credentials Invalid')
+2025-10-24 16:33:34,570 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 19:01:35,275 - INFO - Formato detectado: Email,Nome
+2025-10-28 19:01:35,276 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 19:01:35,277 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 19:01:35,802 - ERROR - Falha ao enviar para tc6445770@gmail.com: [Errno 11001] getaddrinfo failed
+2025-10-28 19:02:25,280 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 19:06:34,801 - INFO - Formato detectado: Email,Nome
+2025-10-28 19:06:34,802 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 19:06:34,802 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 19:06:34,830 - ERROR - Falha ao enviar para tc6445770@gmail.com: [Errno 11001] getaddrinfo failed
+2025-10-28 19:07:24,805 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 19:48:45,551 - INFO - Formato detectado: Email,Nome
+2025-10-28 19:48:45,552 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 19:48:45,553 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 19:49:48,713 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 19:49:48,716 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 21:56:30,611 - INFO - Formato detectado: Email,Nome
+2025-10-28 21:56:30,611 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 21:56:30,611 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 21:57:34,140 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 21:57:34,141 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 22:02:56,186 - INFO - Formato detectado: Email,Nome
+2025-10-28 22:02:56,186 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 22:02:56,187 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 22:07:58,184 - ERROR - Falha ao enviar para tc6445770@gmail.com: Connection unexpectedly closed
+2025-10-28 22:07:58,186 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 22:35:34,256 - INFO - Formato detectado: Email,Nome
+2025-10-28 22:35:34,257 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 22:35:34,258 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 22:36:37,727 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 22:36:37,728 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 22:38:26,299 - INFO - Formato detectado: Email,Nome
+2025-10-28 22:38:26,300 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 22:38:26,300 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 22:39:29,479 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 22:39:29,480 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 22:43:37,268 - INFO - Formato detectado: Email,Nome
+2025-10-28 22:43:37,269 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 22:43:37,269 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 22:44:20,008 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 22:44:27,271 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
+2025-10-28 22:49:44,225 - INFO - Formato detectado: Email,Nome
+2025-10-28 22:49:44,225 - INFO - 1 emails válidos carregados do arquivo
+2025-10-28 22:49:44,226 - INFO - Iniciando envio para 1 destinatários...
+2025-10-28 22:50:47,399 - ERROR - Falha ao enviar para tc6445770@gmail.com: [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-10-28 22:50:47,400 - INFO - Envio finalizado. Enviados: 0, Falhas: 1
